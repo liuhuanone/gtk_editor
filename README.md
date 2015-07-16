@@ -1,4 +1,4 @@
 # gtk_editor
 simple editor by gtk
 you can use it to write .txt.but i only use it playing
-![image](gtk_ceditor.png)
+![alt](/pictures/gtk_ceditor.png)
